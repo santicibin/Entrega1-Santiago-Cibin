@@ -1,0 +1,17 @@
+.personajes {
+    float: left;
+    background-color:rgb(251, 28, 28) ; 
+    
+    margin: 0 ;
+} 
+.personajes img{
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.definicion {
+    font-size: 20px;
+    padding-right: 30px;
+    box-sizing: border-box;
+}

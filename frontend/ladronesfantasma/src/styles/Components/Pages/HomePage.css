@@ -1,0 +1,29 @@
+.resumen {
+    float: left;
+    background-color:rgb(251, 28, 28) ; 
+    
+    margin: 0 ;
+    padding: 0;
+}
+.resumen img{
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+.resumen p{
+    max-width: 500px;
+}
+
+.avisos img{
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+.avisos{
+    font-size: 20px;
+    padding-right: 342px;
+}
